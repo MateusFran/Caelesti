@@ -91,7 +91,7 @@ public class MovimentoP1 : MonoBehaviour
     void Flip()
     {
         viradoParaDireita = !viradoParaDireita;
-     //   tr.localScale = new Vector2(-tr.localScale.x, tr.localScale.y);
+        tr.localScale = new Vector2(-tr.localScale.x, tr.localScale.y);
 
        sprite.flipX = !sprite.flipX;
     }
