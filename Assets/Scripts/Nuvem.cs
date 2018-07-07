@@ -7,12 +7,15 @@ public class Nuvem : MonoBehaviour {
     private Animator animacao;
 
 	// Update is called once per frame
-	void Update () {
+	void Start () {
+        animacao = GetComponent<Animator>();
 	}
-    private void OnTriggerEnter2D(Collider2D collision)
+
+    void OnCollisionEnter2D(Collision2D coll)
     {
-        if (collision.gameObject.tag == "Nuvem")
+        if (coll.gameObject.tag == "player")
         {
+            animacao.SetTrigger("Apertar");
         }
     }
 }
