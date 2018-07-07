@@ -10,10 +10,7 @@ public class Brotamento : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-
         InvokeRepeating("SpawnObject", 2, 1.5f);
-
-      
 	}
 	
     void SpawnObject()
