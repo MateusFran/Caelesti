@@ -14,7 +14,7 @@ public class Colidir : MonoBehaviour
 
             Destroy(coll.gameObject);
 
-                Invoke("mudarCena", 0.3f);
+                Invoke("mudarCena", 0.2f);
 
         }
         
