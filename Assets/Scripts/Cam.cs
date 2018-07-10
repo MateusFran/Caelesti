@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Camera : MonoBehaviour {
+public class Cam : MonoBehaviour {
 
 	public Transform Target;
 	public float TimeToReach;

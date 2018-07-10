@@ -8,7 +8,7 @@ public class MovimentoP1 : MonoBehaviour
 {
 
     private SpriteRenderer sprite;
-    private Rigidbody2D rb;
+    public Rigidbody2D rb;
     private Transform tr;
     private Animator an;
     public Transform verificaChao;
