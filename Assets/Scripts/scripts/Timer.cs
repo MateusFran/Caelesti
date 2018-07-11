@@ -41,6 +41,9 @@ public class Timer : MonoBehaviour {
             
             Seila();
         }
+
+        
+
        
 	}
 
@@ -51,11 +54,11 @@ public class Timer : MonoBehaviour {
     }
     void mudarCena()
     {
-        SceneManager.LoadScene("derrota2");
+        SceneManager.LoadScene("Jogo do Buraco Negro");
     }
     void mudarCena2()
     {
-        SceneManager.LoadScene("Vitória2");
+        SceneManager.LoadScene("Historia pt2");
     }
     void Seila()
     {

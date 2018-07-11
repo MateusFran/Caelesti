@@ -20,7 +20,7 @@ public class Colidir : MonoBehaviour
         
        }
     void mudarCena(){
-            SceneManager.LoadScene("derrota");
+            SceneManager.LoadScene("Jogo");
 
     }
 }

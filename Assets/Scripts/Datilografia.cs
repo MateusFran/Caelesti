@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System.IO;
+using UnityEngine.SceneManagement;
 
 public class Datilografia : MonoBehaviour {
 
@@ -10,6 +11,8 @@ public class Datilografia : MonoBehaviour {
     private string texto;
     private char[] letras;
     private string[] falas;
+
+    [SerializeField] private string sceneName;
 
     public Text texto_hud,
                 nomepersonagem_hud,
@@ -97,5 +100,8 @@ public class Datilografia : MonoBehaviour {
         //capitulos;
         acabouFala = true;
         letras = texto.ToCharArray();
+
+        //Fim;
+        SceneManager.LoadScene(sceneName);
     }
 }

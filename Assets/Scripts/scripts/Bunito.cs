@@ -6,34 +6,24 @@ using UnityEngine.UI;
 
 public class Bunito : MonoBehaviour
 {
+    [SerializeField] private Text txt;
+    //[SerializeField] private int score = 0;
+
+    public int score;
+    
     private int quantidadeColidido = 0;
-    public int QuantidadeColidido
-    {
-        get
-        {
-            return quantidadeColidido;
-        }
-        set
-        {
-            quantidadeColidido = value;
-        }
-    }
+    public int QuantidadeColidido{ get; set;}
 
     private int outroColidido = 0;
-    public int OutroColidido
-    {
-        get
-        {
-            return outroColidido;
-        }
-        set
-        {
-            outroColidido = value;
-        }
-    }
+    public int OutroColidido{ get; set;}
 
-    public Destroyer destroyer;
-    [SerializeField] private Text txt;
+    
+
+    void Update()
+    {
+         txt.text = "Meteoros: " + score;
+         print("Update");
+    }
 
     void OnCollisionEnter2D(Collision2D coll)
     {
@@ -44,7 +34,7 @@ public class Bunito : MonoBehaviour
             
         }
 
-        if (coll.gameObject.CompareTag("outracoisa"))
+        else if (coll.gameObject.CompareTag("outracoisa"))
         {
             Destroy(coll.gameObject);
            
