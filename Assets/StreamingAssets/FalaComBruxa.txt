@@ -1,8 +1,60 @@
 
-/ A menina aproximou-se com curiosidade do crânio mediano sobre uma das prateleiras, logo atrás do balcão do caixa.@
-Caelesti/ㅡ Wau, legal...@
-???/ㅡ É melhor não ir lá...@
-/ A mulher de cor púrpura folheava as páginas amareladas do livro sobre o balcão. @
-???/ㅡ Ele é um monstrinho anti-social. E acordou um pouco doente... @
-/ A criatura nos fundos da loja resmungou em resposta e espirrou novamente. Roscando enraivecido logo depois.@
-???/ㅡ Não vamos incomodá-lo, certo?
+ /Caelesti, apesar de toda a estranheza, passou o olhar no local. Nunca vira uma loja como aquela, se é que era mesmo uma loja. @
+ /Sobre o balcão e espalhados pelas prateleiras e pelo chão havia vários troços e bugigangas, livros, frascos de vidro e outras coisas que a garota não sabia identificar.@
+
+ /*ATCHIMMM*@
+ /*Sons de caixas caindo* @ 
+ /Caelesti voltou-se instintivamente para a parte mais escura da loja, de onde o barulho tinha ecoado. @
+XXX/ㅡ É melhor não ir lá...@
+
+ /Uma mulher de cor púrpura folheava as páginas amareladas do livro sobre o balcão. @
+XXX/ㅡ Ele é um monstrinho anti-social e irritadiço. E acordou um pouco doente... @
+ /A criatura nos fundos da loja resmungou em resposta e espirrou novamente. Rosnando enraivecido logo depois.@
+XXX/ㅡ Não vamos incomodá-lo, certo? @
+XXX/ㅡ O que acha de dá uma olhada na loja? Sinta-se à vontade.@
+ /Caelesti assentiu, passando novamente o olhar sobre os objetos curiosos, dessa vez com mais atenção. Aquela definitivamente não era uma loja comum. @
+ /Mesmo sem olhá-la, Caelesti sentia o atento olhar da mulher roxa sobre si. E aquilo a deixava estranhamente incomodada. @
+XXX/ㅡ Gostou de algo, querida? @
+Caelesti/ㅡ Espero que não soe de forma rude, mas realmente preciso ir. @
+XXX/ *Suspiro*  @
+XXX/ㅡ As pessoas já não têm mais tempo, nem mesmo para realizar seus mais profundos desejos. @
+Caelesti/(Ela ao menos me ouviu?) @
+XXX/ㅡ Mas, sabe... Essa é uma loja diferente, menininha. @
+XXX/ㅡ Aqui seus desejos se tornam realidade. @
+ /Apesar da vontade de ir, algo prendia Caelesti ali e a impedia de sair. Educação, talvez, mas a garota sabia que no fundo era algo mais. @
+XXX/ㅡ Mas nada nessa vida vem de graça, minha querida. @
+XXX/ㅡ Eu posso te dar a coisa que você mais deseja com todo o seu ser, menininha. Ah se posso... Contudo irei querer algo em troca. Algo de valor equivalente. @
+Caelesti/ㅡ Então... senhora, eu já deveria ter ido embora. @
+XXX/ㅡ Bobagem, garota. Se você realmente desejasse ir, já havia de ter ido. @
+Caelesti/ㅡ Sinceramente, eu não acho que... (Ela é doida?) @
+Caelesti/ㅡ Senhora, a senhora está de posse de suas faculdades mentais? @
+XXX/ㅡ Neste mundo não existem coincidências, garotinha. Há apenas coisas inevitáveis. Talvez, ao entrar na minha loja hoje, você tenha se encontrado com o seu destino.@
+Caelesti/(Me sinto ignorada.) @
+Caelesti/ㅡ Eu só quero ir embora! @
+XXX/ㅡ Tem certeza de que deseja abrir mão do seu mais profundo desejo? @
+Caelesti/ㅡ A senhora apenas fala sobre a realização de desejos, mas eu não desejo nada! @
+XXX/ㅡ Todos desejam algo, garotinha. Até mesmo você. @
+Caelesti/ㅡ Como pode ter tanta certeza? @
+XXX/ㅡ Façamos então um acordo. @
+XXX/ㅡ Preciso de alguns objetos que estão com certos clientes. @
+XXX/ㅡ Traga-os para mim e eu te darei o que mais deseja. @
+Caelesti/ㅡ ... (Ela deve estar desesperadamente precisando de funcionários...) @
+Caelesti/ㅡ (Realmente não aguento mais...) Isso fará com que você me deixe em paz? @
+XXX/ㅡ Se assim desejar... @
+Caelesti/ㅡ Então eu o farei. Mas espero receber algo por isso. @
+XXX/ㅡ Sábia escolha, garotinha. Muito sábia. @
+Caelesti/ㅡ É Caelesti! Meu nome é Caelesti! @
+XXX/ㅡ Sábia escolha, Caelesti. Muito sábia. @
+Caelesti/(Só espero não me arrepender por isso.) 
+
+
+
+
+
+
+
+
+
+
+
+

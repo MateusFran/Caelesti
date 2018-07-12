@@ -4,15 +4,27 @@ using UnityEngine;
 
 public class ManagerIntroducao : MonoBehaviour {
 
+	public static int vez;
 	public Datilografia datilografia;
 
-	// Use this for initialization
 	void Start () {
-		datilografia.Digitando("Introducao.txt");
+		if(vez == 1){
+			datilografia.Digitando("Introducao.txt");
+			ManagerIntroducao.vez++;
+		}
+		else if(vez == 2){
+			datilografia.Digitando("DescricaoDaLoja.txt");
+			ManagerIntroducao.vez++;
+		}
+		else if(vez == 3){
+			datilografia.Digitando("FalaComCego1");
+			ManagerIntroducao.vez++;
+		}
+		else if (vez == 4)
+		{
+			
+		}
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		
-	}
 }

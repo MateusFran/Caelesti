@@ -12,6 +12,9 @@ public class Datilografia : MonoBehaviour {
     private char[] letras;
     private string[] falas;
 
+    public string nome;
+    // personagens
+
     [SerializeField] private string sceneName;
 
     public Text texto_hud,
@@ -38,6 +41,7 @@ public class Datilografia : MonoBehaviour {
             }
         }
     }
+      
 
     public void Digitando(string nomeArquivo)
     {
@@ -49,7 +53,7 @@ public class Datilografia : MonoBehaviour {
 
         //começar rotina;
         StartCoroutine(Typerwrite());
-    }
+    }//fim digitando;
 
 
     private IEnumerator Typerwrite()
@@ -64,7 +68,7 @@ public class Datilografia : MonoBehaviour {
         {
 
             string[] subFala = falas[l].Split('/');
-            string nome = subFala[0].Replace("\r\n", "");
+            nome = subFala[0].Replace("\r\n", "");
             nomepersonagem_hud.text = nome;
 
             letras = subFala[1].ToCharArray();
@@ -85,7 +89,7 @@ public class Datilografia : MonoBehaviour {
             {
                 controle_space = false;
                 yield return new WaitForSeconds(0.005f);
-                space_hud.text = "Aperte Espaço";
+                space_hud.text = "Aperte Espaço...";
             }
 
             texto_hud.text = "";
@@ -103,5 +107,5 @@ public class Datilografia : MonoBehaviour {
 
         //Fim;
         SceneManager.LoadScene(sceneName);
-    }
+    }//fim typer;
 }

@@ -1,0 +1,35 @@
+﻿ /Caelesti recebeu da estranha mulher roxa uma lista com três endereços e um pequeno e curioso monstrinho com asas. Ela seguiu para o primeiro.  @
+ /Poderia abandonar tudo e ir para casa, se assim desejasse, mas quando Caelesti dizia que faria algo, ela com toda a certeza faria. @
+Caelesti/ㅡ É aqui? @
+ /A garota viu-se parada em frente de uma enorme casa azul e tentou dar conta de olhar cada um dos detalhes. @
+ /Caelesti relutou bastante até encontrar força de vontade para mover os pés até a enorme porta de entrada e bater. @
+ /Já estava ficando cansada de esperar quando ouviu a porta ser aberta com um ruído arrastado. @
+???/ㅡ Boa noite. Você deve ser a pessoa que a senhora da loja disse que enviaria ainda hoje, certo? @
+Caelesti/ㅡ Isso mesmo.  (Que cara estranho...) @
+Caelesti/ㅡ Você mora aqui?  @
+???/ㅡ Com certeza, senhorita. @
+Caelesti/ㅡ Então…  @
+???/ㅡ Sim, sim. Eu não esqueci. Te darei o que ela pediu-me, mas eu também necessito de ajuda. @
+Caelesti/(Ih, lá vem…) @
+???/ㅡ Minha casa, apesar de grandiosa, é muito escura. Tudo é muito escuro. @
+???/ㅡ Ache algo que seja brilhante o suficiente para iluminar meu mundo e eu te entregarei o que prometi. @
+Caelesti/(mas ele não me prometeu nada...) @
+Caelesti/(mesmo assim… eu dei minha palavra… Então o farei.) @
+Caelesti/O que o senhor deseja para iluminar vossa casa?  @
+???/ㅡ Uma estrela! @
+Caelesti/ㅡ ??? @
+???/ㅡ Desejo a estrela mais brilhante de todo o céu!  @
+Caelesti/ㅡ Como raios eu irei te trazer uma estrela?  @
+ /Caelesti sente algo em sua perna, era o bichinho enviado pela mulher roxa para acompanhá-la que se acalentava nas suas pernas. @
+
+???/ㅡ Tudo é possível, oras. @
+Caelesti/ㅡ Eu não acho que seja assim, não…  @
+???/ㅡ Tudo é possível. @
+???/ㅡ Dizem que a mais brilhante possui um brilho azul. @
+Caelesti/(ele ao menos me ouviu?) @
+
+
+ /O céu ficava cada vez mais escuro enquanto Caelesti se afastava da enorme casa. @
+ /Como poderia ela apanhar uma estrela? @
+ /Lembrou-se do monstrinho que a acompanhava, ele poderia apanhá-la e trazê-la para si. 
+
